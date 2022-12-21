@@ -18,7 +18,7 @@
 //     // manejo del error
 //     console.error(error);
 //   }
-// };
+// };|
 
 export const getImagen = async () => {
   try {
